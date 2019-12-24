@@ -1,4 +1,5 @@
-# YoloV3 Implemented in TensorFlow 2.0
+# YoloV3 Implemented in TensorFlow 2.0  by shahab
+
 
 This repo provides a clean implementation of YoloV3 in TensorFlow 2.0 using all the best practices.
 
